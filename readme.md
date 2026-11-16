@@ -1,1 +1,1 @@
-### End to End project Agentica AI chatbot
+### End to End project Agentic AI chatbot
